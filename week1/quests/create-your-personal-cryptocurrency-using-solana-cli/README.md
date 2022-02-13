@@ -2,6 +2,8 @@
 
 `cargo install spl-token-cli`
 
+Reference - [spl](https://spl.solana.com/token)
+
 # Wallet
 
 Create new - `solana-keygen new`
