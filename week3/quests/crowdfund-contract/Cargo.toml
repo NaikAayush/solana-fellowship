@@ -1,0 +1,20 @@
+[package]
+name = "crowdfund"
+version = "0.0.1"
+edition = "2018"
+
+[features]
+no-entrypoint = []
+
+[dependencies]
+borsh = "0.9.3"
+borsh-derive = "0.9.3"
+solana-program = "1.9.9"
+
+[dev-dependencies]
+solana-program-test = "1.9.9"
+solana-sdk = "1.9.9"
+
+[lib]
+name = "crowdsource"
+crate-type = ["cdylib", "lib"]
