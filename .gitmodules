@@ -1,0 +1,3 @@
+[submodule "week4/quests/candy-machine/week4/quests/candy-machine/metaplex"]
+	path = week4/quests/candy-machine/week4/quests/candy-machine/metaplex
+	url = https://github.com/metaplex-foundation/metaplex
