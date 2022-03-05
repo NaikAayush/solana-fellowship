@@ -107,6 +107,7 @@ export async function uploadV2({
   }
 
   const dedupedAssetKeys = getAssetKeysNeedingUpload(cacheContent.items, files);
+  console.log(files[0]);
   const dirname = path.dirname(files[0]);
   let candyMachine = cacheContent.program.candyMachine
     ? new PublicKey(cacheContent.program.candyMachine)
