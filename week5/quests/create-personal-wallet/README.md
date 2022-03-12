@@ -14,4 +14,26 @@ Install Solana SDK - `go get -u github.com/portto/solana-go-sdk@v1.8.1`
 
 Run - `go run main.go`
 
-Shoudl work without any issues.
+Should work without any issues.
+
+# Run CLI
+
+- Create, Import and request Airdrop.
+
+  ![](screenshots/create-import-airdrop.png)
+
+- Check Balance
+
+  ![](screenshots/balance.png)
+
+- Transfer Recepient Before
+
+  ![](screenshots/before.png)
+
+- Transfer Execute
+
+  ![](screenshots/execute.png)
+
+- Transfer After
+
+  ![](screenshots/after.png)
