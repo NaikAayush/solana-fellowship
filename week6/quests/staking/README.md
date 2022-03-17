@@ -1,0 +1,3 @@
+# Staking
+
+![](screenshots/stake.png)
